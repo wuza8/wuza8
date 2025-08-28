@@ -17,8 +17,25 @@ I'm currently looking for job in tech industry, where I could use my skills for 
 *Frameworks*:
  - **Angular (version 8)** - been working in it on my daily job. I've made there 4 projects from scratch using it. It requires from me some derustification to get to the standards of V12. Willing to put an hours if needed :razor:
  - **React** - used it for my personal projects to learn it and get a grasp of differences between Angular framework. Those are:
+ - **Vue**
+
+*Libraries*:
+ - **TailwindCSS**
+ - **PrimeNG**
+ - **Bootstrap**
 
 :hole: **Backend**:
 
+*Frameworks*:
+ - **Spring Boot**
+ - **ASP.NET**
+ - **Actix.web**
+
+*Technologies*:
+ - **Hibernate**
+ - **Entity framework**
+
 :alien: **AI**:
 
+ - **OpenAI API**
+ - **Guidance**
