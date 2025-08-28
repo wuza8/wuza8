@@ -4,7 +4,7 @@ I'm freshly graduated engineer, who's strongly interested in AI and new technolo
 
 I'm currently looking for job in tech industry, where I could use my skills for the betterment of the mankind! :earth_africa::heart: 
 
-*In progress* of making an portfolio on: 
+*In progress* of making an portfolio on: [link not ready yet]
 
 - 🔭 I’m currently working on my shop engine called "ZEUC" which uses C# and .NET framework.
 - 🌱 I’m currently learning .NET and LangChain
