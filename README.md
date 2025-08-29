@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm engineer, who's strongly interested in AI and new technologies :robot:
-
-I'm currently looking for job in tech industry, where I could use my skills for the betterment of the mankind! :earth_africa::heart: 
+I'm engineer, who's strongly interested in AI and new technologies :robot: 
 
 *In progress* of making an portfolio on: [link not ready yet]
 
