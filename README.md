@@ -14,4 +14,4 @@ I'm engineer, who's strongly interested in AI and new technologies :robot:
 
 :alien: **AI**: OpenAI API, Guidance
 
-Below are more of my projects, with more detailed descriptions:
+**Below are more of my projects, with more detailed descriptions:**
