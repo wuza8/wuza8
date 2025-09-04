@@ -10,7 +10,7 @@ I'm engineer, who's strongly interested in AI and new technologies :robot:
 
 :dizzy: **Frontend**: Angular (work experience), React, Vue | TailwindCSS, PrimeNG & Bootstrap & MaterialDesign (work experience)
 
-:hole: **Backend**: Spring Boot & work experience, ASP.NET, Actix.web | Hibernate, Entity framework
+:hole: **Backend**: Spring Boot + work experience, ASP.NET, Actix.web | Hibernate, Entity framework
 
 :alien: **AI**: OpenAI API, Guidance
 
