@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm engineer, who's strongly interested in AI and new technologies :robot: 
+I'm engineer, who's strongly interested in WebDev, AI and new technologies :robot: 
 
 - 🔭 I’m currently working on my shop engine called "ZEUC" which uses C# and .NET framework.
 - 🌱 I’m currently learning .NET, Laravel 12 and LangChain
