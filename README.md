@@ -3,7 +3,7 @@
 I'm engineer, who's strongly interested in AI and new technologies :robot: 
 
 - 🔭 I’m currently working on my shop engine called "ZEUC" which uses C# and .NET framework.
-- 🌱 I’m currently learning .NET and LangChain
+- 🌱 I’m currently learning .NET, Laravel 12 and LangChain
 - :broom: Cleaning all the mess in my GitHub after the graduation 
 
 ### Technologies, I've been working with
